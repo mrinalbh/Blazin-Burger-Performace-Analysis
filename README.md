@@ -6,4 +6,4 @@ The final result is presented using MicroStrategy with two dashboards showing re
 - the financial side 
 - results from the customer side
 
-![Alt text](Blazin-Burger-Performace-Analysis/MicroStrategy/Financial.png?raw=true "Title")
+![Alt text](https://github.com/mrinalbh/Blazin-Burger-Performace-Analysis/blob/master/MicroStrategy/Financial.png?raw=true "Title")
