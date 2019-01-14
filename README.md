@@ -1,4 +1,4 @@
-# BusinessIntelligence
+# Blazin Burgers
 The files presented here is part what I have learned and what BI is about.
 
 This project here focuses on helping a fast food joint in NYC with improving their preformance finanacially and customer wise in three of its location. 
